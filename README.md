@@ -24,7 +24,7 @@ Welcome to my GitHub! I'm a passionate **Software Developer** with a knack for b
 | **Category**  | **Tools & Technologies**    |
 | ------------- | --------------------------- |
 | **Languages** | PHP, JavaScript, Python, C#  |
-| **Frameworks** | Laravel, ASP.NET MVC, Django, React, Next.js |
+| **Frameworks** | Laravel, ASP.NET MVC, Django, React, Next.js, Vue Js |
 | **Databases**  | MySQL, PostgreSQL, SQLite   |
 | **Frontend**   | Bootstrap, Tailwind CSS     |
 | **Version Control** | Git, GitHub             |
