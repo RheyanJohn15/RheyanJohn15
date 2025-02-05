@@ -10,7 +10,7 @@ Welcome to my GitHub! I'm a passionate **Software Developer** with a knack for b
 - 🔧 **Expertise**: Backend Development, Full-Stack Development
 - ⚡ **Languages & Frameworks**:
   - **Backend**: Laravel (main), ASP.NET MVC, Django
-  - **Frontend**: React, Next.js
+  - **Frontend**: React(PrimeReact), Next.js, Vue JS(Primevue), JQuery
   - **CSS**: Bootstrap, Tailwind CSS
 - 🎨 **Skillset**:
   - **Backend Development**: Databases, APIs, Server-side logic
