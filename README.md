@@ -28,7 +28,7 @@ Welcome to my GitHub! I'm a passionate **Software Developer** with a knack for b
 | **Databases**  | MySQL, PostgreSQL, SQLite   |
 | **Frontend**   | Bootstrap, Tailwind CSS     |
 | **Version Control** | Git, GitHub             |
-| **Other Tools** | Docker, Postman            |
+| **Other Tools** | Docker, Postman, Linux, Nginx, Apache            |
 
 ---
 
